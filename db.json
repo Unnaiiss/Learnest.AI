@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "email": "admin@learnest.ai",
+      "password": "$2a$10$rAjU6gWdGhQKqUNFaLOdH.N7bo1Nqy9.eASDJX/0k2Epqv3ihdHLC",
+      "name": "Admin User",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "email": "unaissse@gmail.com",
+      "password": "$2a$10$xFChdLW7WWNwXNtX7tNnhePKgnTlVwwuTjltOZy/n/gvQdpngDOo.",
+      "name": "unais",
+      "avatar": "https://ui-avatars.com/api/?name=unais&background=random",
+      "id": 3
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "AI Foundations",
+      "level": "Beginner",
+      "tag": "Popular",
+      "lessons": "12",
+      "duration": "4h 30m",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
+      "description": "Master the basics of Artificial Intelligence and Machine Learning."
+    },
+    {
+      "id": 2,
+      "title": "Prompt Engineering Masterclass",
+      "level": "Intermediate",
+      "tag": "Trending",
+      "lessons": "24",
+      "duration": "8h 15m",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800",
+      "description": "Learn how to craft perfect prompts for ChatGPT, Claude, and Midjourney."
+    },
+    {
+      "id": 3,
+      "title": "Building Apps with LLMs",
+      "level": "Advanced",
+      "tag": "New",
+      "lessons": "18",
+      "duration": "6h 45m",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800",
+      "description": "Build real-world applications using LangChain and OpenAI API."
+    },
+    {
+      "title": "ddasdasg",
+      "level": "Beginner",
+      "tag": "sfasdgafasfa",
+      "lessons": "12",
+      "duration": "aga",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
+      "description": "afggadfba",
+      "id": 4
+    },
+    {
+      "title": "DSA",
+      "level": "Beginner",
+      "tag": "Trending",
+      "lessons": "24",
+      "duration": "8h 15m",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800",
+      "description": "This course introduces the fundamental concepts of data structures and algorithms, the building blocks of efficient programming. You’ll learn how to organize, store, and process data using structures like arrays, linked lists, stacks, queues, trees, and graphs. The course also covers essential algorithms for searching, sorting, and optimization, helping you understand how to write code that is both effective and scalable. By the end, you’ll be able to solve real-world problems, improve coding efficiency, and prepare for technical interviews with confidence.\n\n\n",
+      "videoUrl": "https://youtu.be/tAYXzDL8H7Y",
+      "id": 5
+    }
+  ],
+  "ebooks": [
+    {
+      "id": 1,
+      "title": "Modern React Patterns",
+      "author": "Sarah Drasner",
+      "pages": "256",
+      "rating": "4.8",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800",
+      "description": "Advanced patterns for building scalable React applications."
+    },
+    {
+      "id": 2,
+      "title": "The Art of Clean Code",
+      "author": "Christian Mayer",
+      "pages": "312",
+      "rating": "4.9",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&q=80&w=800",
+      "description": "Master the principles of writing clean, maintainable code."
+    },
+    {
+      "id": 3,
+      "title": "System Design Interview",
+      "author": "Alex Xu",
+      "pages": "400",
+      "rating": "5.0",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=800",
+      "description": "A comprehensive guide to acing the system design interview."
+    },
+    {
+      "title": "ssggaf",
+      "description": "ffas",
+      "color": "bg-blue-50",
+      "pdfUrl": "",
+      "id": 4
+    },
+    {
+      "title": "dffsdsdff",
+      "description": "dsf",
+      "color": "bg-indigo-50",
+      "pdfUrl": "",
+      "id": 5
+    }
+  ]
+}
